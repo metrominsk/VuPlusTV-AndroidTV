@@ -1,0 +1,6 @@
+<resources>
+    <!-- Тёмный фон окна: без белой вспышки при запуске. -->
+    <style name="Theme.VuPlusTV" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/ink</item>
+    </style>
+</resources>
