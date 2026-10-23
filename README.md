@@ -1,6 +1,7 @@
 # Vu+ TV: Android TV / Google TV (v0.5.2)
 
 Клиент для просмотра эфира с ресивера Vu+ (Enigma2) на Android TV. Kotlin, Jetpack Compose, Media3.
+<img src="screenshots/1.png" width="400">
 
 ## Сборка
 1. Android Studio (Ladybug или новее) с Android SDK 35 и JDK 17+.
